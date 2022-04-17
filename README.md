@@ -1,4 +1,4 @@
-# day-1-vue
+# Plastic Creative | Portfolio › Nanimarquina
 
 ## Project setup
 ```
